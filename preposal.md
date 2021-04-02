@@ -8,10 +8,11 @@ Mobile app
 Pong game with modifications
 Reddit/discord bot
 Gacha simulator
+random music playlist
 
 ## If you plan to collaborate with one or two classmates, what are their names?
 
-None
+Pilar
 
 ## Do you have any questions of your own?
 
