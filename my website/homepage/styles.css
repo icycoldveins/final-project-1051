@@ -1,0 +1,80 @@
+body{
+    background:
+    linear-gradient(orange, transparent),
+    linear-gradient(to top left, royalblue, transparent),
+    linear-gradient(to top right,lime, transparent);
+    background-blend-mode: screen;
+
+}
+
+h1{
+    font-size:30px;
+    font-family: Georgia;
+    text-align: center;
+    text-decoration: underline;
+}
+h3{
+    font-size: 20px;
+    font-family:Georgia;
+    text-align:center;
+    
+}
+p{
+    font-family: FF Meta Sans;
+    font-size: 20px;
+    
+}
+
+
+button{
+    background-color:rgb(230, 192, 122);
+    border: none;
+    color: black;
+    padding: 13px 32px;
+    text-align: center;
+    font-size: 13px;
+    margin: 10px 10px;
+    transition: 0.3s;
+    border-radius:12px
+}
+button:hover{
+    background-color:orange;
+  color: white;
+}
+img{
+    text-align: center;
+
+}
+#floated-imgs { float: left; }
+#floated-imgs {display: block; }
+.fa {
+    color:rebeccapurple;
+    text-align: center;
+    font-size: 40px;
+}
+.card{
+    color:black;
+    float:left;
+    background-color: peachpuff;
+}
+.one{
+    font-size: 16px;
+    color:black
+}
+.farm{
+    font-size: 16px;
+    float: right;
+    position: relative;
+    top:auto
+}
+.footer{ 
+    bottom: 0px;
+    width: 100%;
+    position: fixed;     
+    text-align: left;}
+.ultima{
+    font-size: 16px;
+}
+#results{
+    visibility: hidden;
+}
